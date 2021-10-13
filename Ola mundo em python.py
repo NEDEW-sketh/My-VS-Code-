@@ -1,0 +1,2 @@
+print("Olá mundo!")
+input()
